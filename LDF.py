@@ -20,3 +20,17 @@ sorted_data = latest_deadline_first(input_data)
 print("Sorted data based on latest deadline first algorithm: ")
 for i, task in enumerate(sorted_data):
     print(f"Task {i+1}: Computation time = {task[0]}, Deadline = {task[1]}")
+
+# Check if the schedule is feasible
+current_time = 0
+feasible = True
+for task in sorted_data:
+    current_time += task[0]
+    if current_time > task[1]:
+        feasible = False
+        break
+
+if feasible:
+    print("This schedule is feasible.")
+else:
+    print("This schedule is not feasible.")
