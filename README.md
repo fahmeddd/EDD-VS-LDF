@@ -1,4 +1,5 @@
-# Real Time System Class Project Spring 2023
+# EDD vs LDF
+# A Real Time Systems Class Project Spring 2023
 
 Assignment:
 Design, implement, and run an experiment which as input takes the following
