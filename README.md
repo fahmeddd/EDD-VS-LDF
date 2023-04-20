@@ -3,7 +3,7 @@
 Assignment:
 Design, implement, and run an experiment which as input takes the following
 parameters: a set of up to 20 tasks each with a computation time (Ci) and
-period (Ti).
+deadline (di).
 
 * The experiment should test, likely through repeated experiments of different deadline
 assignment (Di), two possible scheduling algorithms specifically by comparing the
