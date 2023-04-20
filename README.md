@@ -2,7 +2,7 @@
 
 Assignment:
 Design, implement, and run an experiment which as input takes the following
-parameters: a set of up to 20 tasks each with a computation time (Ci) and
+parameters: a set of up to 20 tasks each with a computation time (ci) and
 deadline (di).
 
 * The experiment should test, likely through repeated experiments of different deadline
