@@ -18,3 +18,5 @@ I will be implementing a Earliest Due Date & Latest Deadline First algorithm sim
 
 * I did not consider constraints of optimization of speed based on different programming languages. In a practical sense, a real time system should be implemented in operating systems so the information can be presented and executed in a manner that behaves or works in conjunction with how a real-world system will behave.
 
+Video Presentation:
+https://youtu.be/rNMOR78F7vY
